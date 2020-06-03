@@ -13,7 +13,7 @@
     <div class="room">
       <logs :logs="logs"></logs>
     </div>
-    <!--  <audio class="song" src="../assets/song.ogg" autoplay controls></audio> -->
+    <audio class="song" src="../assets/song.ogg" autoplay controls></audio>
     <audio id="attack" src="../assets/hadouken.ogg" autoplay></audio>
     <audio id="special" src="../assets/shouryuuken.ogg"></audio>
     <audio id="win" src="../assets/win.ogg"></audio>
