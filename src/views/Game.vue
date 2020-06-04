@@ -139,8 +139,8 @@ export default {
 </script>
 <style scoped>
 #game {
-  margin: 5rem auto;
-  max-width: 70vw;
+  margin: 2rem auto;
+  max-width: 50vw;
   display: grid;
   grid-template-columns: 1fr 1fr;
 
