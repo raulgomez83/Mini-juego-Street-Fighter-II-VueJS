@@ -141,9 +141,10 @@ export default {
 #game {
   margin: 2rem auto;
   max-width: 50vw;
+  min-height: 50vh;
   display: grid;
   grid-template-columns: 1fr 1fr;
-
+  grid-template-rows: 2fr 1fr;
   grid-template-areas:
     "bar button"
     "bar room";
