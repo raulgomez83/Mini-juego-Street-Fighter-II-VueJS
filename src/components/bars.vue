@@ -30,15 +30,15 @@ img {
 .hpbars {
   display: flex;
   flex-direction: column;
-  width: 50vw;
   background-color: rgba(255, 255, 255, 0);
+  max-height: 20vh;
 }
 .red {
   background: red;
 }
 .bar {
   background: yellow;
-  height: 25px;
+  height: 2rem;
 }
 .name {
   width: 10rem;

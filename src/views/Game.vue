@@ -139,8 +139,11 @@ export default {
 </script>
 <style scoped>
 #game {
+  margin: 5rem auto;
+  max-width: 70vw;
   display: grid;
   grid-template-columns: 1fr 1fr;
+
   grid-template-areas:
     "bar button"
     "bar room";

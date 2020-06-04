@@ -15,6 +15,7 @@
   font-family: "Press Start 2P";
   color: whitesmoke;
 }
+
 #app {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -24,9 +25,7 @@
 
 #nav {
   padding: 10px;
-  display: flex;
-  flex-direction: row;
-  justify-content: space-around;
+  display: inline-block;
 }
 
 #nav a {
@@ -34,6 +33,7 @@
   font-weight: bold;
   color: whitesmoke;
   font-size: 0.7rem;
+  margin: 1rem;
 }
 
 #nav a.router-link-exact-active {

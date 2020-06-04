@@ -33,7 +33,7 @@ export default {
   width: 30vw;
   padding: 1rem;
   margin: auto;
-  margin-top: 1rem;
+  margin-top: 5rem;
   background-color: rgba(255, 255, 255, 0);
 }
 .options button {
