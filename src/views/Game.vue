@@ -168,6 +168,7 @@ export default {
   width: 25rem;
   overflow: scroll;
   grid-area: room;
+  margin-left: 5rem;
 }
 .song {
   width: 8rem;
