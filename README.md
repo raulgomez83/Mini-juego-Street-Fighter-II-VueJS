@@ -1,4 +1,6 @@
-# vuesterslayer
+# Street FighterII
+
+Mini juego realizado con VueJS, podéis verlo en: https://streetfighter-6h7nhqzt3.vercel.app/#/
 
 ## Project setup
 ```
